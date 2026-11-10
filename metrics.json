@@ -1,0 +1,7 @@
+{
+  "output_rms_ps": 1.5811388300841898,
+  "max_width_error_ps": 4.440892098500626e-16,
+  "relative_energy_error": 2.220446049250313e-16,
+  "seed": 42,
+  "data": "synthetic"
+}
